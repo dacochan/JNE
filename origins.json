@@ -1,0 +1,2522 @@
+[
+  {
+    "code": "TUVTMjA3MTNK",
+    "label": "AEK KUO,LABUHANBATU",
+    "value": "AEK KUO,LABUHANBATU"
+  },
+  {
+    "code": "REpKMjA4MDBK",
+    "label": "AGATS,KAB.ASMAT",
+    "value": "AGATS,KAB.ASMAT"
+  },
+  {
+    "code": "U09RMTAwMTlK",
+    "label": "AIMAS,SORONG",
+    "value": "AIMAS,SORONG"
+  },
+  {
+    "code": "TURDMjA4MDBK",
+    "label": "AIRMADIDI,KAB.MINAHASA UTARA",
+    "value": "AIRMADIDI,KAB.MINAHASA UTARA"
+  },
+  {
+    "code": "QU1RMTAwMDBK",
+    "label": "AMBON",
+    "value": "AMBON"
+  },
+  {
+    "code": "RFBTMjAxMDBK",
+    "label": "AMLAPURA",
+    "value": "AMLAPURA"
+  },
+  {
+    "code": "UExXMjEwMDBK",
+    "label": "AMPANA KOTA,AMPANA",
+    "value": "AMPANA KOTA,AMPANA"
+  },
+  {
+    "code": "QkRKMjAxMDBK",
+    "label": "AMUNTAI",
+    "value": "AMUNTAI"
+  },
+  {
+    "code": "TURDMjA5MDBK",
+    "label": "AMURANG, MINAHASA SELATAN",
+    "value": "AMURANG, MINAHASA SELATAN"
+  },
+  {
+    "code": "QktTMjAxMDBK",
+    "label": "ARGAMAKMUR, KAB.BENGKULU UTARA",
+    "value": "ARGAMAKMUR, KAB.BENGKULU UTARA"
+  },
+  {
+    "code": "S09FMjAxMDBK",
+    "label": "ATAMBUA,KAB.BELU",
+    "value": "ATAMBUA,KAB.BELU"
+  },
+  {
+    "code": "S09FMjE1MDBK",
+    "label": "BAA, BAA",
+    "value": "BAA, BAA"
+  },
+  {
+    "code": "UEtVMjA1MDdK",
+    "label": "BAGAN SINEMBAH, ROKAN",
+    "value": "BAGAN SINEMBAH, ROKAN"
+  },
+  {
+    "code": "UEtVMjA1MDBK",
+    "label": "BAGANSIAPIAPI, KAB ROKAN HILIR",
+    "value": "BAGANSIAPIAPI, KAB ROKAN HILIR"
+  },
+  {
+    "code": "S09FMjA5MDBK",
+    "label": "BAJAWA,KAB.NGADA",
+    "value": "BAJAWA,KAB.NGADA"
+  },
+  {
+    "code": "TUVTMjAxMDBK",
+    "label": "BALIGE, KAB.TOBA SAMOSIR",
+    "value": "BALIGE, KAB.TOBA SAMOSIR"
+  },
+  {
+    "code": "QlBOMTAwMDBK",
+    "label": "BALIKPAPAN",
+    "value": "BALIKPAPAN"
+  },
+  {
+    "code": "UExXMjA3MDBK",
+    "label": "BANAWA,KAB.DONGGALA",
+    "value": "BANAWA,KAB.DONGGALA"
+  },
+  {
+    "code": "QlRKMTAwMDBK",
+    "label": "BANDAACEH",
+    "value": "BANDAACEH"
+  },
+  {
+    "code": "VE5KMTAxMDBK",
+    "label": "BANDAR SRI BENTAN, KAB.BINTAN",
+    "value": "BANDAR SRI BENTAN, KAB.BINTAN"
+  },
+  {
+    "code": "TUVTMjA2MDFK",
+    "label": "BANDAR,SIMALUNGUN",
+    "value": "BANDAR,SIMALUNGUN"
+  },
+  {
+    "code": "VEtHMTAwMDBK",
+    "label": "BANDARLAMPUNG",
+    "value": "BANDARLAMPUNG"
+  },
+  {
+    "code": "QkRPMTAwMDBK",
+    "label": "BANDUNG",
+    "value": "BANDUNG"
+  },
+  {
+    "code": "UExXMjA1MDBK",
+    "label": "BANGGAI,KAB.BANGGAI KEP.",
+    "value": "BANGGAI,KAB.BANGGAI KEP."
+  },
+  {
+    "code": "U1VCMjAxMDBK",
+    "label": "BANGKALAN,KAB.BANGKALAN",
+    "value": "BANGKALAN,KAB.BANGKALAN"
+  },
+  {
+    "code": "UEtVMjAxMDBK",
+    "label": "BANGKINANG, KAB KAMPAR",
+    "value": "BANGKINANG, KAB KAMPAR"
+  },
+  {
+    "code": "REpCMjAxMDBK",
+    "label": "BANGKO,KAB.MERANGIN",
+    "value": "BANGKO,KAB.MERANGIN"
+  },
+  {
+    "code": "QkRKMTAxMDBK",
+    "label": "BARABAI,KAB.HULU SUNGAI TNGH",
+    "value": "BARABAI,KAB.HULU SUNGAI TNGH"
+  },
+  {
+    "code": "VEtHMjExMDJK",
+    "label": "BARADATU, BLAMPANGAN UMPU",
+    "value": "BARADATU, BLAMPANGAN UMPU"
+  },
+  {
+    "code": "VVBHMjAyMDBK",
+    "label": "BARRU,KAB.BARRU",
+    "value": "BARRU,KAB.BARRU"
+  },
+  {
+    "code": "QlRIMTAwMDBK",
+    "label": "BATAM",
+    "value": "BATAM"
+  },
+  {
+    "code": "U1JHMjAyMDBK",
+    "label": "BATANG ,KAB BATANG",
+    "value": "BATANG ,KAB BATANG"
+  },
+  {
+    "code": "TUVTMjI0MDhK",
+    "label": "BATANGTORU,SIPIROK",
+    "value": "BATANGTORU,SIPIROK"
+  },
+  {
+    "code": "QkRKMjA0MDFK",
+    "label": "BATI-BATI,PELAIHARI",
+    "value": "BATI-BATI,PELAIHARI"
+  },
+  {
+    "code": "TVhHMjAyMDBK",
+    "label": "BATU",
+    "value": "BATU"
+  },
+  {
+    "code": "QlBOMjAxMDFK",
+    "label": "BATU SOPANG,TANAH GROGOT",
+    "value": "BATU SOPANG,TANAH GROGOT"
+  },
+  {
+    "code": "UExXMjAxMDNK",
+    "label": "BATUI,LUWUK",
+    "value": "BATUI,LUWUK"
+  },
+  {
+    "code": "QkRKMjEzMDBK",
+    "label": "BATULICIN, KAB TANAH BAMBU",
+    "value": "BATULICIN, KAB TANAH BAMBU"
+  },
+  {
+    "code": "UExNMjAxMDBK",
+    "label": "BATURAJA",
+    "value": "BATURAJA"
+  },
+  {
+    "code": "UERHMjAxMDBK",
+    "label": "BATUSANGKAR",
+    "value": "BATUSANGKAR"
+  },
+  {
+    "code": "S0RJMjAxMDBK",
+    "label": "BAU-BAU",
+    "value": "BAU-BAU"
+  },
+  {
+    "code": "UExNMjA4MDVK",
+    "label": "BAYUNG LINCIR,SEKAYU",
+    "value": "BAYUNG LINCIR,SEKAYU"
+  },
+  {
+    "code": "QktJMTAwMDBK",
+    "label": "BEKASI",
+    "value": "BEKASI"
+  },
+  {
+    "code": "UEdLMTAyMDFK",
+    "label": "BELINYU,SUNGAILIAT",
+    "value": "BELINYU,SUNGAILIAT"
+  },
+  {
+    "code": "UExNMjE0MDFK",
+    "label": "BELITANG, MARTAPURA",
+    "value": "BELITANG, MARTAPURA"
+  },
+  {
+    "code": "VVBHMjMxMDBK",
+    "label": "BELOPA,KAB.LUWU",
+    "value": "BELOPA,KAB.LUWU"
+  },
+  {
+    "code": "QlRHMjAxMDNK",
+    "label": "BENGALON , SANGATA",
+    "value": "BENGALON , SANGATA"
+  },
+  {
+    "code": "UEtVMjAyMDBK",
+    "label": "BENGKALIS, KAB BENGKALIS",
+    "value": "BENGKALIS, KAB BENGKALIS"
+  },
+  {
+    "code": "UE5LMjA2MDBK",
+    "label": "BENGKAYANG, KAB BENGKAYANG",
+    "value": "BENGKAYANG, KAB BENGKAYANG"
+  },
+  {
+    "code": "QktTMTAwMDBK",
+    "label": "BENGKULU",
+    "value": "BENGKULU"
+  },
+  {
+    "code": "VVBHMjIwMDBK",
+    "label": "BENTENG,KAB.SELAYAR",
+    "value": "BENTENG,KAB.SELAYAR"
+  },
+  {
+    "code": "UExNMjEwMDVK",
+    "label": "BETUNG,PANGKALANBALAI",
+    "value": "BETUNG,PANGKALANBALAI"
+  },
+  {
+    "code": "REpKMjAxMDBK",
+    "label": "BIAK",
+    "value": "BIAK"
+  },
+  {
+    "code": "QU1JMjAxMDBK",
+    "label": "BIMA",
+    "value": "BIMA"
+  },
+  {
+    "code": "TUVTMjA5MTVK",
+    "label": "BINJAI,LANGKAT",
+    "value": "BINJAI,LANGKAT"
+  },
+  {
+    "code": "U09RMjA1MDBK",
+    "label": "BINTUNI,KAB. TELUK BINTUNI",
+    "value": "BINTUNI,KAB. TELUK BINTUNI"
+  },
+  {
+    "code": "QkRKMjA1MDJK",
+    "label": "BINUANG,RANTAU",
+    "value": "BINUANG,RANTAU"
+  },
+  {
+    "code": "QlRKMjAxMDBK",
+    "label": "BIREUEN",
+    "value": "BIREUEN"
+  },
+  {
+    "code": "TURDMjA0MDBK",
+    "label": "BITUNG",
+    "value": "BITUNG"
+  },
+  {
+    "code": "VEtHMjExMDBK",
+    "label": "BLAMBANGAN UMPU,WAY KANAN",
+    "value": "BLAMBANGAN UMPU,WAY KANAN"
+  },
+  {
+    "code": "QlRKMjE3MDBK",
+    "label": "BLANGKEJEREN,KAB.GAYOLUES",
+    "value": "BLANGKEJEREN,KAB.GAYOLUES"
+  },
+  {
+    "code": "QlRKMjEwMDBK",
+    "label": "BLANGPIDIE",
+    "value": "BLANGPIDIE"
+  },
+  {
+    "code": "TVhHMjAxMDBK",
+    "label": "BLITAR",
+    "value": "BLITAR"
+  },
+  {
+    "code": "U1JHMjAzMDBK",
+    "label": "BLORA,KAB.BLORA",
+    "value": "BLORA,KAB.BLORA"
+  },
+  {
+    "code": "Qk9PMTAwMDBK",
+    "label": "BOGOR",
+    "value": "BOGOR"
+  },
+  {
+    "code": "U1JHMjA0MDBK",
+    "label": "BOJONEGORO,KAB.BOJONEGORO",
+    "value": "BOJONEGORO,KAB.BOJONEGORO"
+  },
+  {
+    "code": "SkJSMjAyMDBK",
+    "label": "BONDOWOSO, KAB BONDOWOSO",
+    "value": "BONDOWOSO, KAB BONDOWOSO"
+  },
+  {
+    "code": "QlRHMTAwMDBK",
+    "label": "BONTANG",
+    "value": "BONTANG"
+  },
+  {
+    "code": "TURDMjA2MDBK",
+    "label": "BOROKO, BOROKO",
+    "value": "BOROKO, BOROKO"
+  },
+  {
+    "code": "S09FMjEzMDBK",
+    "label": "BORONG,KAB.MANGGARAI TIMUR",
+    "value": "BORONG,KAB.MANGGARAI TIMUR"
+  },
+  {
+    "code": "REpKMjE4MDBK",
+    "label": "BOTAWA",
+    "value": "BOTAWA"
+  },
+  {
+    "code": "U09DMjAxMDBK",
+    "label": "BOYOLALI,KAB.BOYOLALI",
+    "value": "BOYOLALI,KAB.BOYOLALI"
+  },
+  {
+    "code": "U1JHMjA1MDBK",
+    "label": "BREBES,KAB.BREBES",
+    "value": "BREBES,KAB.BREBES"
+  },
+  {
+    "code": "UERHMjAyMDBK",
+    "label": "BUKITTINGGI",
+    "value": "BUKITTINGGI"
+  },
+  {
+    "code": "RFBTMjA2MDlK",
+    "label": "BULELENG,SINGARAJA",
+    "value": "BULELENG,SINGARAJA"
+  },
+  {
+    "code": "VVBHMjAzMDBK",
+    "label": "BULUKUMBA",
+    "value": "BULUKUMBA"
+  },
+  {
+    "code": "U1JHMjA1MDRK",
+    "label": "BUMIAYU,BREBES",
+    "value": "BUMIAYU,BREBES"
+  },
+  {
+    "code": "UExXMjA4MDBK",
+    "label": "BUNGKU, KAB. MOROWALI",
+    "value": "BUNGKU, KAB. MOROWALI"
+  },
+  {
+    "code": "QkRKMjExMDBK",
+    "label": "BUNTOK",
+    "value": "BUNTOK"
+  },
+  {
+    "code": "UExXMjA2MDBK",
+    "label": "BUOL, KAB. BUOL",
+    "value": "BUOL, KAB. BUOL"
+  },
+  {
+    "code": "REpKMjIwMDBK",
+    "label": "BURMESO",
+    "value": "BURMESO"
+  },
+  {
+    "code": "TUROMTAxMDBK",
+    "label": "CARUBAN,KAB.MADIUN",
+    "value": "CARUBAN,KAB.MADIUN"
+  },
+  {
+    "code": "U1JHMjAzMDlK",
+    "label": "CEPU,BLORA",
+    "value": "CEPU,BLORA"
+  },
+  {
+    "code": "QkRPMjA1MDBK",
+    "label": "CIAMIS, KAB.CIAMIS",
+    "value": "CIAMIS, KAB.CIAMIS"
+  },
+  {
+    "code": "QkRPMjEyMDBK",
+    "label": "CIANJUR, CIANJUR",
+    "value": "CIANJUR, CIANJUR"
+  },
+  {
+    "code": "Qk9PMjAxMDBK",
+    "label": "CIBINONG,KAB.BOGOR",
+    "value": "CIBINONG,KAB.BOGOR"
+  },
+  {
+    "code": "U01JMTAwMDdK",
+    "label": "CICURUG,SUKABUMI",
+    "value": "CICURUG,SUKABUMI"
+  },
+  {
+    "code": "QktJMTAxMDBK",
+    "label": "CIKARANG,KAB.BEKASI",
+    "value": "CIKARANG,KAB.BEKASI"
+  },
+  {
+    "code": "Q1hQMTAwMDBK",
+    "label": "CILACAP",
+    "value": "CILACAP"
+  },
+  {
+    "code": "Q0xHMTAwMDBK",
+    "label": "CILEGON",
+    "value": "CILEGON"
+  },
+  {
+    "code": "Q0JOMTAwMDBK",
+    "label": "CIREBON",
+    "value": "CIREBON"
+  },
+  {
+    "code": "QktTMjAyMDBK",
+    "label": "CURUP, KAB.REJANG LEBONG",
+    "value": "CURUP, KAB.REJANG LEBONG"
+  },
+  {
+    "code": "QlRIMTAyMDBK",
+    "label": "DAIK",
+    "value": "DAIK"
+  },
+  {
+    "code": "REpCMjA0MDNK",
+    "label": "DANAU KERINCI,SUNGAIPENUH",
+    "value": "DANAU KERINCI,SUNGAIPENUH"
+  },
+  {
+    "code": "QU1RMjA3MDBK",
+    "label": "DATARAN HUNIMOA",
+    "value": "DATARAN HUNIMOA"
+  },
+  {
+    "code": "U1JHMjA3MDBK",
+    "label": "DEMAK",
+    "value": "DEMAK"
+  },
+  {
+    "code": "RFBTMTAwMDBK",
+    "label": "DENPASAR",
+    "value": "DENPASAR"
+  },
+  {
+    "code": "RFBLMTAwMDBK",
+    "label": "DEPOK",
+    "value": "DEPOK"
+  },
+  {
+    "code": "QlRKMjE1MDRK",
+    "label": "DEWANTARA,LHOKSUKON",
+    "value": "DEWANTARA,LHOKSUKON"
+  },
+  {
+    "code": "QU1RMjA0MDBK",
+    "label": "DOBO, DOBO",
+    "value": "DOBO, DOBO"
+  },
+  {
+    "code": "TUVTMjE2MDBK",
+    "label": "DOLOKSANGGUL,KAB.HUMBANG",
+    "value": "DOLOKSANGGUL,KAB.HUMBANG"
+  },
+  {
+    "code": "QU1JMjAyMDBK",
+    "label": "DOMPU,KAB.DOMPU",
+    "value": "DOMPU,KAB.DOMPU"
+  },
+  {
+    "code": "UEtVMTAxMDBK",
+    "label": "DUMAI, KOTA DUMAI",
+    "value": "DUMAI, KOTA DUMAI"
+  },
+  {
+    "code": "UEtVMjAyMTdK",
+    "label": "DURI-MANDAU,BENGKALIS",
+    "value": "DURI-MANDAU,BENGKALIS"
+  },
+  {
+    "code": "QkRKMjA4MDNK",
+    "label": "DUSUN TENGAH,TAMIANGLAYANG",
+    "value": "DUSUN TENGAH,TAMIANGLAYANG"
+  },
+  {
+    "code": "S09FMjA4MDBK",
+    "label": "ENDE,KAB.ENDE",
+    "value": "ENDE,KAB.ENDE"
+  },
+  {
+    "code": "VVBHMjA0MDBK",
+    "label": "ENREKANG,KAB.ENREKANG",
+    "value": "ENREKANG,KAB.ENREKANG"
+  },
+  {
+    "code": "UE5LMTAyMjNK",
+    "label": "ENTIKONG, SANGGAU",
+    "value": "ENTIKONG, SANGGAU"
+  },
+  {
+    "code": "U09RMjAwMDBK",
+    "label": "FAK-FAK",
+    "value": "FAK-FAK"
+  },
+  {
+    "code": "QkRKMjAzMDNK",
+    "label": "GAMBUT,MARTAPURA",
+    "value": "GAMBUT,MARTAPURA"
+  },
+  {
+    "code": "VEpRMTAxMDJK",
+    "label": "GANTUNG,BELITUNG TIMUR",
+    "value": "GANTUNG,BELITUNG TIMUR"
+  },
+  {
+    "code": "QkRPMjA3MDBK",
+    "label": "GARUT, KAB.GARUT",
+    "value": "GARUT, KAB.GARUT"
+  },
+  {
+    "code": "VEtHMjE0MDBK",
+    "label": "GEDONG TATAAN,KAB.PESAWARAN",
+    "value": "GEDONG TATAAN,KAB.PESAWARAN"
+  },
+  {
+    "code": "QU1JMjA4MDBK",
+    "label": "GERUNG, KAB.LOMBOK BARAT",
+    "value": "GERUNG, KAB.LOMBOK BARAT"
+  },
+  {
+    "code": "RFBTMjAzMDBK",
+    "label": "GIANYAR",
+    "value": "GIANYAR"
+  },
+  {
+    "code": "R1RPMTAwMDBK",
+    "label": "GORONTALO",
+    "value": "GORONTALO"
+  },
+  {
+    "code": "U1VCMTAxMDBK",
+    "label": "GRESIK,KAB.GRESIK",
+    "value": "GRESIK,KAB.GRESIK"
+  },
+  {
+    "code": "VEtHMjA5MDBK",
+    "label": "GUNUNG SUGIH,KAB.LAMPUNG TNGH",
+    "value": "GUNUNG SUGIH,KAB.LAMPUNG TNGH"
+  },
+  {
+    "code": "TUVTMjE0MDBK",
+    "label": "GUNUNG TUA, PADANGLAWAS UTARA",
+    "value": "GUNUNG TUA, PADANGLAWAS UTARA"
+  },
+  {
+    "code": "TUVTMjAzMDBK",
+    "label": "GUNUNGSITOLI, KAB.NIAS",
+    "value": "GUNUNGSITOLI, KAB.NIAS"
+  },
+  {
+    "code": "QkRKMTAzMDJK",
+    "label": "HAMPANG,KOTABARUPULAULAUT",
+    "value": "HAMPANG,KOTABARUPULAULAUT"
+  },
+  {
+    "code": "QlRKMjE0MDBK",
+    "label": "IDI RAYEUK,KAB.ACEH TIMUR",
+    "value": "IDI RAYEUK,KAB.ACEH TIMUR"
+  },
+  {
+    "code": "UExNMjEzMDBK",
+    "label": "INDRALAYA,KAB.OGAN ILIR",
+    "value": "INDRALAYA,KAB.OGAN ILIR"
+  },
+  {
+    "code": "Q0JOMjAxMDBK",
+    "label": "INDRAMAYU",
+    "value": "INDRAMAYU"
+  },
+  {
+    "code": "VFRFMjAyMDBK",
+    "label": "JAILOLO",
+    "value": "JAILOLO"
+  },
+  {
+    "code": "Q0dLMTAwMDBK",
+    "label": "JAKARTA",
+    "value": "JAKARTA"
+  },
+  {
+    "code": "REpCMTAwMDBK",
+    "label": "JAMBI",
+    "value": "JAMBI"
+  },
+  {
+    "code": "U01JMTAwMjNK",
+    "label": "JAMPANG KULON,SUKABUMI",
+    "value": "JAMPANG KULON,SUKABUMI"
+  },
+  {
+    "code": "VEtHMjAxMDZK",
+    "label": "JATI AGUNG, KAB.LAMPUNG SEL",
+    "value": "JATI AGUNG, KAB.LAMPUNG SEL"
+  },
+  {
+    "code": "REpKMTAwMDBK",
+    "label": "JAYAPURA",
+    "value": "JAYAPURA"
+  },
+  {
+    "code": "UEdLMTAzMDRK",
+    "label": "JEBUS,,KELAPA",
+    "value": "JEBUS,,KELAPA"
+  },
+  {
+    "code": "SkJSMTAwMDBK",
+    "label": "JEMBER",
+    "value": "JEMBER"
+  },
+  {
+    "code": "VVBHMjA1MDBK",
+    "label": "JENEPONTO,KAB.JENEPONTO",
+    "value": "JENEPONTO,KAB.JENEPONTO"
+  },
+  {
+    "code": "U1JHMTAxMDBK",
+    "label": "JEPARA,KAB.JEPARA",
+    "value": "JEPARA,KAB.JEPARA"
+  },
+  {
+    "code": "U1VCMjAyMDBK",
+    "label": "JOMBANG,KAB.JOMBANG",
+    "value": "JOMBANG,KAB.JOMBANG"
+  },
+  {
+    "code": "QkRKMjA0MDJK",
+    "label": "JORONG,PELAIHARI",
+    "value": "JORONG,PELAIHARI"
+  },
+  {
+    "code": "TUVTMjA4MDBK",
+    "label": "KABANJAHE, KAB.KARO",
+    "value": "KABANJAHE, KAB.KARO"
+  },
+  {
+    "code": "R1RPMjAzMDJK",
+    "label": "KABILA,SUWAWA",
+    "value": "KABILA,SUWAWA"
+  },
+  {
+    "code": "U09RMjAxMDBK",
+    "label": "KAIMANA",
+    "value": "KAIMANA"
+  },
+  {
+    "code": "U1JHMjIyMDBK",
+    "label": "KAJEN,KAB.PEKALONGAN",
+    "value": "KAJEN,KAB.PEKALONGAN"
+  },
+  {
+    "code": "S09FMjAyMDBK",
+    "label": "KALABAHI",
+    "value": "KALABAHI"
+  },
+  {
+    "code": "VEtHMjAxMDBK",
+    "label": "KALIANDA, KAB.LAMPUNG SELATAN",
+    "value": "KALIANDA, KAB.LAMPUNG SELATAN"
+  },
+  {
+    "code": "QkRKMTAyMDBK",
+    "label": "KANDANGAN,KAB.HULU SUNGAI SLTN",
+    "value": "KANDANGAN,KAB.HULU SUNGAI SLTN"
+  },
+  {
+    "code": "UEtVMjEyMDRK",
+    "label": "KANDIS,SIAKSRIINDAPURA",
+    "value": "KANDIS,SIAKSRIINDAPURA"
+  },
+  {
+    "code": "U09DMjAyMDBK",
+    "label": "KARANGANYAR,KAB.KARANGANYAR",
+    "value": "KARANGANYAR,KAB.KARANGANYAR"
+  },
+  {
+    "code": "RFBTMjAxMDhK",
+    "label": "KARANGASEM,AMLAPURA",
+    "value": "KARANGASEM,AMLAPURA"
+  },
+  {
+    "code": "S1JXMTAwMDBK",
+    "label": "KARAWANG",
+    "value": "KARAWANG"
+  },
+  {
+    "code": "REpKMjE3MDBK",
+    "label": "KARUBAGA,KAB.TOLIKORA",
+    "value": "KARUBAGA,KAB.TOLIKORA"
+  },
+  {
+    "code": "UEtZMjAyMDBK",
+    "label": "KASONGAN,KAB.KATINGAN",
+    "value": "KASONGAN,KAB.KATINGAN"
+  },
+  {
+    "code": "VEtHMjAxMDdK",
+    "label": "KATIBUNG, KAB.LAMPUNG SELATAN",
+    "value": "KATIBUNG, KAB.LAMPUNG SELATAN"
+  },
+  {
+    "code": "QktTMjExMDBK",
+    "label": "KAUR,KAB.KAUR",
+    "value": "KAUR,KAB.KAUR"
+  },
+  {
+    "code": "UExNMjAyMDBK",
+    "label": "KAYUAGUNG,KAB.OGAN KOMERING",
+    "value": "KAYUAGUNG,KAB.OGAN KOMERING"
+  },
+  {
+    "code": "TUdMMTAxMDBK",
+    "label": "KEBUMEN",
+    "value": "KEBUMEN"
+  },
+  {
+    "code": "S0RSMTAwMDBK",
+    "label": "KEDIRI",
+    "value": "KEDIRI"
+  },
+  {
+    "code": "S09FMjAzMDBK",
+    "label": "KEFAMENANU,KAB.TIMOR TGH UTARA",
+    "value": "KEFAMENANU,KAB.TIMOR TGH UTARA"
+  },
+  {
+    "code": "VEpRMTAxMDNK",
+    "label": "KELAPA KAMPIT,BELITUNG TIMUR",
+    "value": "KELAPA KAMPIT,BELITUNG TIMUR"
+  },
+  {
+    "code": "UEdLMTAzMDBK",
+    "label": "KELAPA,KAB.BANGKA BARAT",
+    "value": "KELAPA,KAB.BANGKA BARAT"
+  },
+  {
+    "code": "QkRKMTA0MDRK",
+    "label": "KELUA,TANJUNG",
+    "value": "KELUA,TANJUNG"
+  },
+  {
+    "code": "U1JHMjA4MDBK",
+    "label": "KENDAL,KAB.KENDAL",
+    "value": "KENDAL,KAB.KENDAL"
+  },
+  {
+    "code": "S0RJMTAwMDBK",
+    "label": "KENDARI",
+    "value": "KENDARI"
+  },
+  {
+    "code": "QktTMjEyMDBK",
+    "label": "KEPAHIANG,KAB.KEPAHIANG",
+    "value": "KEPAHIANG,KAB.KEPAHIANG"
+  },
+  {
+    "code": "TVhHMjAzMDBK",
+    "label": "KEPANJEN, KAB MALANG",
+    "value": "KEPANJEN, KAB MALANG"
+  },
+  {
+    "code": "QktTMjAxMTBK",
+    "label": "KETAHUN,ARGAMAKMUR",
+    "value": "KETAHUN,ARGAMAKMUR"
+  },
+  {
+    "code": "UE5LMTAxMDBK",
+    "label": "KETAPANG, KAB.KETAPANG",
+    "value": "KETAPANG, KAB.KETAPANG"
+  },
+  {
+    "code": "TUVTMTAxMDBK",
+    "label": "KISARAN, KAB.ASAHAN",
+    "value": "KISARAN, KAB.ASAHAN"
+  },
+  {
+    "code": "Q0JOMjA0MjBK",
+    "label": "KLANGENAN, SUMBER",
+    "value": "KLANGENAN, SUMBER"
+  },
+  {
+    "code": "U09DMjAzMDBK",
+    "label": "KLATEN",
+    "value": "KLATEN"
+  },
+  {
+    "code": "RFBTMjA1MDJK",
+    "label": "KLUNGKUNG,SEMARAPURA",
+    "value": "KLUNGKUNG,SEMARAPURA"
+  },
+  {
+    "code": "UEdLMTA0MDBK",
+    "label": "KOBA, KAB.KOBA",
+    "value": "KOBA, KAB.KOBA"
+  },
+  {
+    "code": "S0RJMjAyMDBK",
+    "label": "KOLAKA,KAB.KOLAKA",
+    "value": "KOLAKA,KAB.KOLAKA"
+  },
+  {
+    "code": "VEtHMjEzMDBK",
+    "label": "KOTA AGUNG, KAB.TANGGAMUS",
+    "value": "KOTA AGUNG, KAB.TANGGAMUS"
+  },
+  {
+    "code": "QktTMjAzMDBK",
+    "label": "KOTA MANNA, KAB.BENGKULU SLTN",
+    "value": "KOTA MANNA, KAB.BENGKULU SLTN"
+  },
+  {
+    "code": "QkRKMTAzMDBK",
+    "label": "KOTABARU,PULAULAUT",
+    "value": "KOTABARU,PULAULAUT"
+  },
+  {
+    "code": "VEtHMjAyMDBK",
+    "label": "KOTABUMI, KAB.LAMPUNG UTARA",
+    "value": "KOTABUMI, KAB.LAMPUNG UTARA"
+  },
+  {
+    "code": "TURDMjAxMDBK",
+    "label": "KOTAMOBAGU,BOLAANG MONGONDOW",
+    "value": "KOTAMOBAGU,BOLAANG MONGONDOW"
+  },
+  {
+    "code": "TUVTMjA3MDRK",
+    "label": "KOTAPINANG,RANTAUPRAPAT",
+    "value": "KOTAPINANG,RANTAUPRAPAT"
+  },
+  {
+    "code": "QlRKMjExMDBK",
+    "label": "KRUENG SABEE/CALANG",
+    "value": "KRUENG SABEE/CALANG"
+  },
+  {
+    "code": "UEtZMjA1MDBK",
+    "label": "KUALA PEMBUANG",
+    "value": "KUALA PEMBUANG"
+  },
+  {
+    "code": "UEtZMjAzMDBK",
+    "label": "KUALAKAPUAS",
+    "value": "KUALAKAPUAS"
+  },
+  {
+    "code": "UEtZMjA0MDBK",
+    "label": "KUALAKURUN,KAB.GN.MAS",
+    "value": "KUALAKURUN,KAB.GN.MAS"
+  },
+  {
+    "code": "QlRKMjEzMDBK",
+    "label": "KUALASIMPANG,KAB.ACEH TAMIANG",
+    "value": "KUALASIMPANG,KAB.ACEH TAMIANG"
+  },
+  {
+    "code": "REpCMTAxMDBK",
+    "label": "KUALATUNGKAL",
+    "value": "KUALATUNGKAL"
+  },
+  {
+    "code": "U1JHMTAyMDBK",
+    "label": "KUDUS,KAB.KUDUS",
+    "value": "KUDUS,KAB.KUDUS"
+  },
+  {
+    "code": "QlRIMTA0MDNK",
+    "label": "KUNDUR, KAB. KARIMUN",
+    "value": "KUNDUR, KAB. KARIMUN"
+  },
+  {
+    "code": "Q0JOMjAyMDBK",
+    "label": "KUNINGAN, KAB KUNINGAN",
+    "value": "KUNINGAN, KAB KUNINGAN"
+  },
+  {
+    "code": "S09FMTAwMDBK",
+    "label": "KUPANG",
+    "value": "KUPANG"
+  },
+  {
+    "code": "QkRKMjEzMDFK",
+    "label": "KUSAN HILIR,BATULICIN",
+    "value": "KUSAN HILIR,BATULICIN"
+  },
+  {
+    "code": "QlRKMjAyMDBK",
+    "label": "KUTACANE",
+    "value": "KUTACANE"
+  },
+  {
+    "code": "R1RPMjA0MDBK",
+    "label": "KWANDANG,KAB.GORONTALO UTARA",
+    "value": "KWANDANG,KAB.GORONTALO UTARA"
+  },
+  {
+    "code": "S09FMjEyMDBK",
+    "label": "LABUAN BAJO, LABUAN BAJO",
+    "value": "LABUAN BAJO, LABUAN BAJO"
+  },
+  {
+    "code": "VFRFMjAzMDBK",
+    "label": "LABUHA",
+    "value": "LABUHA"
+  },
+  {
+    "code": "UExNMjAzMDBK",
+    "label": "LAHAT,KAB.LAHAT",
+    "value": "LAHAT,KAB.LAHAT"
+  },
+  {
+    "code": "U1VCMTAyMDBK",
+    "label": "LAMONGAN,KAB.LAMONGAN",
+    "value": "LAMONGAN,KAB.LAMONGAN"
+  },
+  {
+    "code": "QlRKMTAxMDBK",
+    "label": "LANGSA",
+    "value": "LANGSA"
+  },
+  {
+    "code": "S09FMjA0MDBK",
+    "label": "LARANTUKA,KAB.FLORES TIMUR",
+    "value": "LARANTUKA,KAB.FLORES TIMUR"
+  },
+  {
+    "code": "S0RJMjA3MDBK",
+    "label": "LASUSUA,KAB.KOLAKA UTARA",
+    "value": "LASUSUA,KAB.KOLAKA UTARA"
+  },
+  {
+    "code": "UExNMjA1MDhK",
+    "label": "LAWANG KIDUL - TJ.ENIM,MR ENIM",
+    "value": "LAWANG KIDUL - TJ.ENIM,MR ENIM"
+  },
+  {
+    "code": "QktTMjEzMDBK",
+    "label": "LEBONG",
+    "value": "LEBONG"
+  },
+  {
+    "code": "UERHMjE3MTBK",
+    "label": "LEMBAH GUMANTI,AROSUKA",
+    "value": "LEMBAH GUMANTI,AROSUKA"
+  },
+  {
+    "code": "S09FMjE4MDBK",
+    "label": "LEWOLEBA, LEMBATA",
+    "value": "LEWOLEBA, LEMBATA"
+  },
+  {
+    "code": "QlRKMTAyMDBK",
+    "label": "LHOKSEUMAWE",
+    "value": "LHOKSEUMAWE"
+  },
+  {
+    "code": "QlRKMjE1MDBK",
+    "label": "LHOKSUKON,KAB.ACEH UTARA",
+    "value": "LHOKSUKON,KAB.ACEH UTARA"
+  },
+  {
+    "code": "VEtHMjA0MDBK",
+    "label": "LIWA, LAMPUNG BARAT",
+    "value": "LIWA, LAMPUNG BARAT"
+  },
+  {
+    "code": "UERHMjIyMDBK",
+    "label": "LUBUK BASUNG,KAB.AGAM",
+    "value": "LUBUK BASUNG,KAB.AGAM"
+  },
+  {
+    "code": "UExNMjE2MDBK",
+    "label": "LUBUK LINGGAU",
+    "value": "LUBUK LINGGAU"
+  },
+  {
+    "code": "TUVTMTA2MDBK",
+    "label": "LUBUK PAKAM,KAB.DELI SERDANG",
+    "value": "LUBUK PAKAM,KAB.DELI SERDANG"
+  },
+  {
+    "code": "UERHMjAzMDBK",
+    "label": "LUBUKSIKAPING,KAB,PASAMAN",
+    "value": "LUBUKSIKAPING,KAB,PASAMAN"
+  },
+  {
+    "code": "UEJMMjAxMDBK",
+    "label": "LUMAJANG,KAB.LUMAJANG",
+    "value": "LUMAJANG,KAB.LUMAJANG"
+  },
+  {
+    "code": "UExXMjAxMDBK",
+    "label": "LUWUK,KAB.BANGGAI",
+    "value": "LUWUK,KAB.BANGGAI"
+  },
+  {
+    "code": "VFRFMjA1MDBK",
+    "label": "MABA,KAB.HALMAHERA TIMUR",
+    "value": "MABA,KAB.HALMAHERA TIMUR"
+  },
+  {
+    "code": "TUROMTAwMDBK",
+    "label": "MADIUN",
+    "value": "MADIUN"
+  },
+  {
+    "code": "TUdMMTAwMDBK",
+    "label": "MAGELANG",
+    "value": "MAGELANG"
+  },
+  {
+    "code": "TUROMjAxMDBK",
+    "label": "MAGETAN, KAB MAGETAN",
+    "value": "MAGETAN, KAB MAGETAN"
+  },
+  {
+    "code": "Q0JOMjAzMDBK",
+    "label": "MAJALENGKA, KAB MAJALENGKA",
+    "value": "MAJALENGKA, KAB MAJALENGKA"
+  },
+  {
+    "code": "VVBHMjA5MDBK",
+    "label": "MAJENE,MAJENE",
+    "value": "MAJENE,MAJENE"
+  },
+  {
+    "code": "VVBHMjA2MDBK",
+    "label": "MAKALE,KAB.TANA TORAJA",
+    "value": "MAKALE,KAB.TANA TORAJA"
+  },
+  {
+    "code": "VVBHMTAwMDBK",
+    "label": "MAKASAR",
+    "value": "MAKASAR"
+  },
+  {
+    "code": "TVhHMTAwMDBK",
+    "label": "MALANG",
+    "value": "MALANG"
+  },
+  {
+    "code": "VVBHMjMyMDBK",
+    "label": "MALILI,KAB.LUWU TIMUR",
+    "value": "MALILI,KAB.LUWU TIMUR"
+  },
+  {
+    "code": "VFJLMjAyMDBK",
+    "label": "MALINAU, KAB MALINAU",
+    "value": "MALINAU, KAB MALINAU"
+  },
+  {
+    "code": "VVBHMjM0MDBK",
+    "label": "MAMASA,MAMASA",
+    "value": "MAMASA,MAMASA"
+  },
+  {
+    "code": "VVBHMjA3MDBK",
+    "label": "MAMUJU,MAMUJU",
+    "value": "MAMUJU,MAMUJU"
+  },
+  {
+    "code": "TURDMTAwMDBK",
+    "label": "MANADO",
+    "value": "MANADO"
+  },
+  {
+    "code": "VEpRMTAxMDBK",
+    "label": "MANGGAR,KAB.BELITUNG TIMUR",
+    "value": "MANGGAR,KAB.BELITUNG TIMUR"
+  },
+  {
+    "code": "VVBHMjMyMDNK",
+    "label": "MANGKUTANA,KAB.LUWU TIMUR",
+    "value": "MANGKUTANA,KAB.LUWU TIMUR"
+  },
+  {
+    "code": "U09RMjA2MDhK",
+    "label": "MANOKWARI",
+    "value": "MANOKWARI"
+  },
+  {
+    "code": "QkRKMjAyMDBK",
+    "label": "MARABAHAN,KAB.BARITO KUALA",
+    "value": "MARABAHAN,KAB.BARITO KUALA"
+  },
+  {
+    "code": "R1RPMjA1MDBK",
+    "label": "MARISA,KAB.PAHUWATO",
+    "value": "MARISA,KAB.PAHUWATO"
+  },
+  {
+    "code": "VVBHMjA4MDBK",
+    "label": "MAROS",
+    "value": "MAROS"
+  },
+  {
+    "code": "QkRKMjAzMDBK",
+    "label": "MARTAPURA,KAB.BANJAR",
+    "value": "MARTAPURA,KAB.BANJAR"
+  },
+  {
+    "code": "UExNMjE0MDBK",
+    "label": "MARTAPURA,KAB.OGAN KOMERING",
+    "value": "MARTAPURA,KAB.OGAN KOMERING"
+  },
+  {
+    "code": "VVBHMjMzMDBK",
+    "label": "MASAMBA,KAB.LUWU UTARA",
+    "value": "MASAMBA,KAB.LUWU UTARA"
+  },
+  {
+    "code": "QU1RMjAxMDBK",
+    "label": "MASOHI,KAB.MALUKU TENGAH",
+    "value": "MASOHI,KAB.MALUKU TENGAH"
+  },
+  {
+    "code": "QU1JMTAwMDBK",
+    "label": "MATARAM",
+    "value": "MATARAM"
+  },
+  {
+    "code": "S09FMjA1MDBK",
+    "label": "MAUMERE,KAB.SIKKA",
+    "value": "MAUMERE,KAB.SIKKA"
+  },
+  {
+    "code": "S09FMjE0MDBK",
+    "label": "MBAY,KAB.NAGEKEO",
+    "value": "MBAY,KAB.NAGEKEO"
+  },
+  {
+    "code": "TUVTMTAwMDBK",
+    "label": "MEDAN",
+    "value": "MEDAN"
+  },
+  {
+    "code": "U01EMjAyMTBK",
+    "label": "MELAK, SENDAWAR",
+    "value": "MELAK, SENDAWAR"
+  },
+  {
+    "code": "TURDMjA3MDBK",
+    "label": "MELONGUANE",
+    "value": "MELONGUANE"
+  },
+  {
+    "code": "UE5LMjA5MDBK",
+    "label": "MEMPAWAH, KAB PONTIANAK",
+    "value": "MEMPAWAH, KAB PONTIANAK"
+  },
+  {
+    "code": "VEtHMjEyMDBK",
+    "label": "MENGGALA, KAB. TULANG BAWANG",
+    "value": "MENGGALA, KAB. TULANG BAWANG"
+  },
+  {
+    "code": "RFBTMjExMDBK",
+    "label": "MENGUWI, KAB.BADUNG",
+    "value": "MENGUWI, KAB.BADUNG"
+  },
+  {
+    "code": "UEdLMTAzMDFK",
+    "label": "MENTOK,KELAPA",
+    "value": "MENTOK,KELAPA"
+  },
+  {
+    "code": "REpKMjA0MDBK",
+    "label": "MERAUKE,KAB.MERAUKE",
+    "value": "MERAUKE,KAB.MERAUKE"
+  },
+  {
+    "code": "UEdLMTAyMDZK",
+    "label": "MERAWANG",
+    "value": "MERAWANG"
+  },
+  {
+    "code": "VEtHMjEyMDFK",
+    "label": "MESUJI, MENGGALA",
+    "value": "MESUJI, MENGGALA"
+  },
+  {
+    "code": "VEtHMjAzMDBK",
+    "label": "METRO, KOTA METRO",
+    "value": "METRO, KOTA METRO"
+  },
+  {
+    "code": "QlRKMjAzMDBK",
+    "label": "MEULABOH",
+    "value": "MEULABOH"
+  },
+  {
+    "code": "QlRKMjE5MDBK",
+    "label": "MEUREUDU,KAB.PIDIE JAYA",
+    "value": "MEUREUDU,KAB.PIDIE JAYA"
+  },
+  {
+    "code": "TUpLMTAwMDBK",
+    "label": "MOJOKERTO",
+    "value": "MOJOKERTO"
+  },
+  {
+    "code": "U01EMjAxMjdK",
+    "label": "MUARA BADAK",
+    "value": "MUARA BADAK"
+  },
+  {
+    "code": "UExNMTAzMDBK",
+    "label": "MUARA BELITI BARU, MUSI RAWAS",
+    "value": "MUARA BELITI BARU, MUSI RAWAS"
+  },
+  {
+    "code": "QlBOMTAwMTRK",
+    "label": "MUARA JAWA",
+    "value": "MUARA JAWA"
+  },
+  {
+    "code": "REpCMjA4MDBK",
+    "label": "MUARA SABAK,KAB.TNJ JABUNG TMR",
+    "value": "MUARA SABAK,KAB.TNJ JABUNG TMR"
+  },
+  {
+    "code": "REpCMjA5MDBK",
+    "label": "MUARA TEBO",
+    "value": "MUARA TEBO"
+  },
+  {
+    "code": "UERHMjE5MDBK",
+    "label": "MUARA,KAB.SIJUNJUNG",
+    "value": "MUARA,KAB.SIJUNJUNG"
+  },
+  {
+    "code": "REpCMjAyMDBK",
+    "label": "MUARABULIAN,KAB.BATANG HARI",
+    "value": "MUARABULIAN,KAB.BATANG HARI"
+  },
+  {
+    "code": "REpCMjAzMDBK",
+    "label": "MUARABUNGO,KAB.BUNGO",
+    "value": "MUARABUNGO,KAB.BUNGO"
+  },
+  {
+    "code": "UExNMjE1MDBK",
+    "label": "MUARADUA,KAB.OGAN KOMERING ULU",
+    "value": "MUARADUA,KAB.OGAN KOMERING ULU"
+  },
+  {
+    "code": "UExNMjA1MDBK",
+    "label": "MUARAENIM,KAB.MUARAENIM",
+    "value": "MUARAENIM,KAB.MUARAENIM"
+  },
+  {
+    "code": "QktTMjE0MDBK",
+    "label": "MUKO-MUKO,BENGKULU",
+    "value": "MUKO-MUKO,BENGKULU"
+  },
+  {
+    "code": "TUdMMTA1MDBK",
+    "label": "MUNGKID,KAB.MAGELANG",
+    "value": "MUNGKID,KAB.MAGELANG"
+  },
+  {
+    "code": "REpKMjA1MDBK",
+    "label": "NABIRE,KAB.NABIRE",
+    "value": "NABIRE,KAB.NABIRE"
+  },
+  {
+    "code": "QU1RMjAzMDBK",
+    "label": "NAMLEA,KAB.BURU",
+    "value": "NAMLEA,KAB.BURU"
+  },
+  {
+    "code": "UE5LMjA4MDBK",
+    "label": "NANGA PINOH, KAB MELAWI",
+    "value": "NANGA PINOH, KAB MELAWI"
+  },
+  {
+    "code": "UE5LMTAxMDVK",
+    "label": "NANGA TAYAP,KETAPANG",
+    "value": "NANGA TAYAP,KETAPANG"
+  },
+  {
+    "code": "RFBTMjA0MDBK",
+    "label": "NEGARA,KAB.JEMBRANA",
+    "value": "NEGARA,KAB.JEMBRANA"
+  },
+  {
+    "code": "UE5LMjA3MDBK",
+    "label": "NGABANG, KAB LANDAK",
+    "value": "NGABANG, KAB LANDAK"
+  },
+  {
+    "code": "U1VCMjA0MDBK",
+    "label": "NGANJUK,KAB.NGANJUK",
+    "value": "NGANJUK,KAB.NGANJUK"
+  },
+  {
+    "code": "TUROMjAyMDBK",
+    "label": "NGAWI, KAB NGAWI",
+    "value": "NGAWI, KAB NGAWI"
+  },
+  {
+    "code": "VFJLMjAzMDBK",
+    "label": "NUNUKAN, KAB NUNUKAN",
+    "value": "NUNUKAN, KAB NUNUKAN"
+  },
+  {
+    "code": "S09FMjE5MDBK",
+    "label": "OELAMASI,KAB.OELAMASI",
+    "value": "OELAMASI,KAB.OELAMASI"
+  },
+  {
+    "code": "REpKMjEzMDBK",
+    "label": "OKSIBIL,KAB.PEG.BINTANG",
+    "value": "OKSIBIL,KAB.PEG.BINTANG"
+  },
+  {
+    "code": "Q0JOMjA0MjZK",
+    "label": "PABUARAN, SUMBER",
+    "value": "PABUARAN, SUMBER"
+  },
+  {
+    "code": "TUROMjAzMDBK",
+    "label": "PACITAN, KAB PACITAN",
+    "value": "PACITAN, KAB PACITAN"
+  },
+  {
+    "code": "UERHMTAwMDBK",
+    "label": "PADANG",
+    "value": "PADANG"
+  },
+  {
+    "code": "UERHMjE4MDBK",
+    "label": "PADANG ARO",
+    "value": "PADANG ARO"
+  },
+  {
+    "code": "UERHMjExMDBK",
+    "label": "PADANGPANJANG",
+    "value": "PADANGPANJANG"
+  },
+  {
+    "code": "TUVTMjA1MDBK",
+    "label": "PADANGSIDEMPUAN",
+    "value": "PADANGSIDEMPUAN"
+  },
+  {
+    "code": "UExNMjA2MDBK",
+    "label": "PAGARALAM",
+    "value": "PAGARALAM"
+  },
+  {
+    "code": "R1RPMjAyMDRK",
+    "label": "PAGUYAMAN,TILAMUTA",
+    "value": "PAGUYAMAN,TILAMUTA"
+  },
+  {
+    "code": "UERHMjA1MDBK",
+    "label": "PAINAN,KAB.PESISIR SELATAN",
+    "value": "PAINAN,KAB.PESISIR SELATAN"
+  },
+  {
+    "code": "UEtZMTAwMDBK",
+    "label": "PALANGKARAYA",
+    "value": "PALANGKARAYA"
+  },
+  {
+    "code": "U01EMTAwMDdK",
+    "label": "PALARAN",
+    "value": "PALARAN"
+  },
+  {
+    "code": "UExNMTAwMDBK",
+    "label": "PALEMBANG",
+    "value": "PALEMBANG"
+  },
+  {
+    "code": "VVBHMjEwMDBK",
+    "label": "PALOPO",
+    "value": "PALOPO"
+  },
+  {
+    "code": "UExXMTAwMDBK",
+    "label": "PALU",
+    "value": "PALU"
+  },
+  {
+    "code": "U1VCMjA1MDBK",
+    "label": "PAMEKASAN,KAB.PAMEKASAN",
+    "value": "PAMEKASAN,KAB.PAMEKASAN"
+  },
+  {
+    "code": "UExXMjAyMTJK",
+    "label": "PAMONA SELATAN,POSO",
+    "value": "PAMONA SELATAN,POSO"
+  },
+  {
+    "code": "TUVTMTA2MDZK",
+    "label": "PANCUR BATU,LUBUK PAKAM",
+    "value": "PANCUR BATU,LUBUK PAKAM"
+  },
+  {
+    "code": "UEROMTAwMDBK",
+    "label": "PANDAAN",
+    "value": "PANDAAN"
+  },
+  {
+    "code": "Q0xHMjAxMDBK",
+    "label": "PANDEGLANG,KAB.PANDEGLANG",
+    "value": "PANDEGLANG,KAB.PANDEGLANG"
+  },
+  {
+    "code": "VVBHMjIxMDBK",
+    "label": "PANGKAJENE,KEP.PANGKAJENE",
+    "value": "PANGKAJENE,KEP.PANGKAJENE"
+  },
+  {
+    "code": "UEtVMjEwMDBK",
+    "label": "PANGKALAN KERINCI,PALALAWAN",
+    "value": "PANGKALAN KERINCI,PALALAWAN"
+  },
+  {
+    "code": "UExNMjEwMDBK",
+    "label": "PANGKALANBALAI,KAB.BANYUASIN",
+    "value": "PANGKALANBALAI,KAB.BANYUASIN"
+  },
+  {
+    "code": "UEtZMjA3MDBK",
+    "label": "PANGKALANBUN",
+    "value": "PANGKALANBUN"
+  },
+  {
+    "code": "UEdLMTAwMDBK",
+    "label": "PANGKALPINANG",
+    "value": "PANGKALPINANG"
+  },
+  {
+    "code": "TUVTMjIyMDBK",
+    "label": "PANGURURAN,KAB.SAMOSIR",
+    "value": "PANGURURAN,KAB.SAMOSIR"
+  },
+  {
+    "code": "TUVTMjE3MDBK",
+    "label": "PANYABUNGAN,",
+    "value": "PANYABUNGAN,"
+  },
+  {
+    "code": "VVBHMjIzMDBK",
+    "label": "PARE-PARE",
+    "value": "PARE-PARE"
+  },
+  {
+    "code": "UEtZMjA4MDZK",
+    "label": "PARENGGEAN,SAMPIT",
+    "value": "PARENGGEAN,SAMPIT"
+  },
+  {
+    "code": "UERHMjA2MDBK",
+    "label": "PARIAMAN,KAB.PADANG PARIAMAN",
+    "value": "PARIAMAN,KAB.PADANG PARIAMAN"
+  },
+  {
+    "code": "UExXMjA5MDBK",
+    "label": "PARIGI,KAB.PARIGI MOUTONG",
+    "value": "PARIGI,KAB.PARIGI MOUTONG"
+  },
+  {
+    "code": "QkRKMjEyMDBK",
+    "label": "PARINGIN, KAB BALANGAN",
+    "value": "PARINGIN, KAB BALANGAN"
+  },
+  {
+    "code": "VVBHMjM1MDBK",
+    "label": "PASANGKAYU,MAMUJU UTARA",
+    "value": "PASANGKAYU,MAMUJU UTARA"
+  },
+  {
+    "code": "S0RJMjA2MDBK",
+    "label": "PASAR WAJO,KAB.BUTON",
+    "value": "PASAR WAJO,KAB.BUTON"
+  },
+  {
+    "code": "UEtVMjExMDBK",
+    "label": "PASIR PANGARAIAN",
+    "value": "PASIR PANGARAIAN"
+  },
+  {
+    "code": "UEtVMjAzMDVK",
+    "label": "PASIR PENYU,RENGAT",
+    "value": "PASIR PENYU,RENGAT"
+  },
+  {
+    "code": "UEROMjAxMDBK",
+    "label": "PASURUAN",
+    "value": "PASURUAN"
+  },
+  {
+    "code": "U1JHMjA5MDBK",
+    "label": "PATI,KAB.PATI",
+    "value": "PATI,KAB.PATI"
+  },
+  {
+    "code": "UERHMjA3MDBK",
+    "label": "PAYAKUMBUH",
+    "value": "PAYAKUMBUH"
+  },
+  {
+    "code": "U1JHMTAzMDBK",
+    "label": "PEKALONGAN",
+    "value": "PEKALONGAN"
+  },
+  {
+    "code": "UEtVMTAwMDBK",
+    "label": "PEKANBARU",
+    "value": "PEKANBARU"
+  },
+  {
+    "code": "U01JMTAwMzZK",
+    "label": "PELABUHANRATU,SUKABUMI",
+    "value": "PELABUHANRATU,SUKABUMI"
+  },
+  {
+    "code": "QkRKMjA0MDBK",
+    "label": "PELAIHARI, KAB.BANJARMASIN",
+    "value": "PELAIHARI, KAB.BANJARMASIN"
+  },
+  {
+    "code": "U1JHMjEwMDBK",
+    "label": "PEMALANG,KAB.PEMALANG",
+    "value": "PEMALANG,KAB.PEMALANG"
+  },
+  {
+    "code": "TUVTMjI2MDBK",
+    "label": "PEMATANGSIANTAR",
+    "value": "PEMATANGSIANTAR"
+  },
+  {
+    "code": "QlBOMjAzMDBK",
+    "label": "PENAJAM, PENAJAM PASER UTARA",
+    "value": "PENAJAM, PENAJAM PASER UTARA"
+  },
+  {
+    "code": "VEtHMjA0MDRK",
+    "label": "PESISIR TENGAH / KRUI, LIWA",
+    "value": "PESISIR TENGAH / KRUI, LIWA"
+  },
+  {
+    "code": "VVBHMjExMDBK",
+    "label": "PINRANG",
+    "value": "PINRANG"
+  },
+  {
+    "code": "QU1RMjA2MDBK",
+    "label": "PIRU, PIRU",
+    "value": "PIRU, PIRU"
+  },
+  {
+    "code": "VVBHMjEyMDBK",
+    "label": "POLEWALI,POLEWALI MANDAR",
+    "value": "POLEWALI,POLEWALI MANDAR"
+  },
+  {
+    "code": "TUROMjA0MDBK",
+    "label": "PONOROGO, KAB PONOROGO",
+    "value": "PONOROGO, KAB PONOROGO"
+  },
+  {
+    "code": "UE5LMTAwMDBK",
+    "label": "PONTIANAK",
+    "value": "PONTIANAK"
+  },
+  {
+    "code": "R1RPMjA1MDRK",
+    "label": "POPAYATO,MARISA",
+    "value": "POPAYATO,MARISA"
+  },
+  {
+    "code": "UExXMjAyMDBK",
+    "label": "POSO",
+    "value": "POSO"
+  },
+  {
+    "code": "UExNMjA3MDBK",
+    "label": "PRABUMULIH",
+    "value": "PRABUMULIH"
+  },
+  {
+    "code": "U09RMjA2MTdK",
+    "label": "PRAFI, MANOKWARI",
+    "value": "PRAFI, MANOKWARI"
+  },
+  {
+    "code": "QU1JMjAzMDBK",
+    "label": "PRAYA,KAB.LOMBOK TENGAH",
+    "value": "PRAYA,KAB.LOMBOK TENGAH"
+  },
+  {
+    "code": "VEtHMjEzMDNK",
+    "label": "PRINGSEWU, KOTA AGUNG",
+    "value": "PRINGSEWU, KOTA AGUNG"
+  },
+  {
+    "code": "UEJMMTAwMDBK",
+    "label": "PROBOLINGGO",
+    "value": "PROBOLINGGO"
+  },
+  {
+    "code": "UERHMjEyMDBK",
+    "label": "PUALU PUNJUNG,KAB.DHARMASRAYA",
+    "value": "PUALU PUNJUNG,KAB.DHARMASRAYA"
+  },
+  {
+    "code": "VFJLMjAxMDVK",
+    "label": "PULAU BUNYU, TANJUNGSELOR",
+    "value": "PULAU BUNYU, TANJUNGSELOR"
+  },
+  {
+    "code": "UEtVMjA0MTRK",
+    "label": "PULAU BURUNG, TEMBILAHAN",
+    "value": "PULAU BURUNG, TEMBILAHAN"
+  },
+  {
+    "code": "Q0dLMTA2MDBK",
+    "label": "PULAU PRAMUKA",
+    "value": "PULAU PRAMUKA"
+  },
+  {
+    "code": "U1JHMjE3MDBK",
+    "label": "PURBALINGGA,KAB.PURBALINGGA",
+    "value": "PURBALINGGA,KAB.PURBALINGGA"
+  },
+  {
+    "code": "QkRKMjA5MDBK",
+    "label": "PURUK CAHU",
+    "value": "PURUK CAHU"
+  },
+  {
+    "code": "QkRPMjA4MDBK",
+    "label": "PURWAKARTA,KAB.PURWAKARTA",
+    "value": "PURWAKARTA,KAB.PURWAKARTA"
+  },
+  {
+    "code": "U1JHMjExMDBK",
+    "label": "PURWODADI,KAB.GROBOGAN",
+    "value": "PURWODADI,KAB.GROBOGAN"
+  },
+  {
+    "code": "U1JHMTA0MDBK",
+    "label": "PURWOKERTO",
+    "value": "PURWOKERTO"
+  },
+  {
+    "code": "TUdMMTAzMDBK",
+    "label": "PURWOREJO,KAB.PURWOREJO",
+    "value": "PURWOREJO,KAB.PURWOREJO"
+  },
+  {
+    "code": "QktTMjAxMTZK",
+    "label": "PUTRI HIJAU,ARGAMAKMUR",
+    "value": "PUTRI HIJAU,ARGAMAKMUR"
+  },
+  {
+    "code": "UE5LMjAyMDBK",
+    "label": "PUTUSSIBAU, KAB.KAPUAS HULU",
+    "value": "PUTUSSIBAU, KAB.KAPUAS HULU"
+  },
+  {
+    "code": "S0RJMjAzMDBK",
+    "label": "RAHA,KAB.MUNA",
+    "value": "RAHA,KAB.MUNA"
+  },
+  {
+    "code": "QlRIMTAzMDBK",
+    "label": "RANAI, KAB. NATUNA",
+    "value": "RANAI, KAB. NATUNA"
+  },
+  {
+    "code": "Q0xHMjAyMDBK",
+    "label": "RANGKASBITUNG",
+    "value": "RANGKASBITUNG"
+  },
+  {
+    "code": "QkRKMjA1MDBK",
+    "label": "RANTAU",
+    "value": "RANTAU"
+  },
+  {
+    "code": "TUVTMjA3MDBK",
+    "label": "RANTAUPRAPAT, KAB.LABUHAN BATU",
+    "value": "RANTAUPRAPAT, KAB.LABUHAN BATU"
+  },
+  {
+    "code": "VVBHMjA2MDVK",
+    "label": "RANTEPAO KAB. TANA TORAJA UTR",
+    "value": "RANTEPAO KAB. TANA TORAJA UTR"
+  },
+  {
+    "code": "U09RMjA2MDBK",
+    "label": "RASEI",
+    "value": "RASEI"
+  },
+  {
+    "code": "TURDMjEwMDBK",
+    "label": "RATAHAN,KAB.MINAHASA TENGGARA",
+    "value": "RATAHAN,KAB.MINAHASA TENGGARA"
+  },
+  {
+    "code": "UExNMjA1MDVK",
+    "label": "REMBANG DANGKU,MUARA ENIM",
+    "value": "REMBANG DANGKU,MUARA ENIM"
+  },
+  {
+    "code": "U1JHMjEyMDBK",
+    "label": "REMBANG,KAB.REMBANG",
+    "value": "REMBANG,KAB.REMBANG"
+  },
+  {
+    "code": "UEtVMjAzMDBK",
+    "label": "RENGAT, KAB INDRAGIRI HULU",
+    "value": "RENGAT, KAB INDRAGIRI HULU"
+  },
+  {
+    "code": "REpCMjA5MDFK",
+    "label": "RIMBO BUJANG,MUARA TEBO",
+    "value": "RIMBO BUJANG,MUARA TEBO"
+  },
+  {
+    "code": "S0RJMjA1MDBK",
+    "label": "RUMBIA,KAB.BOMBANA",
+    "value": "RUMBIA,KAB.BOMBANA"
+  },
+  {
+    "code": "S09FMjA2MDBK",
+    "label": "RUTENG,KAB.MANGGARAI",
+    "value": "RUTENG,KAB.MANGGARAI"
+  },
+  {
+    "code": "QlRKMjA3MDBK",
+    "label": "SABANG,KOTA SABANG",
+    "value": "SABANG,KOTA SABANG"
+  },
+  {
+    "code": "U1JHMjEzMDBK",
+    "label": "SALATIGA",
+    "value": "SALATIGA"
+  },
+  {
+    "code": "U01EMTAwMDBK",
+    "label": "SAMARINDA",
+    "value": "SAMARINDA"
+  },
+  {
+    "code": "UE5LMjEwMDBK",
+    "label": "SAMBAS, KAB SAMBAS",
+    "value": "SAMBAS, KAB SAMBAS"
+  },
+  {
+    "code": "U1VCMjA2MDBK",
+    "label": "SAMPANG,KAB.SAMPANG",
+    "value": "SAMPANG,KAB.SAMPANG"
+  },
+  {
+    "code": "UEtZMjA4MDBK",
+    "label": "SAMPIT",
+    "value": "SAMPIT"
+  },
+  {
+    "code": "VFRFMjA3MDBK",
+    "label": "SANANA,KAB.KEP.SULA",
+    "value": "SANANA,KAB.KEP.SULA"
+  },
+  {
+    "code": "QlRHMjAxMDBK",
+    "label": "SANGGATA, KUTAI TIMUR",
+    "value": "SANGGATA, KUTAI TIMUR"
+  },
+  {
+    "code": "UE5LMTAyMDBK",
+    "label": "SANGGAU, KAB SANGGAU",
+    "value": "SANGGAU, KAB SANGGAU"
+  },
+  {
+    "code": "REpKMjE1MDBK",
+    "label": "SARMI,KAB.SARMI",
+    "value": "SARMI,KAB.SARMI"
+  },
+  {
+    "code": "REpCMjA3MDBK",
+    "label": "SAROLANGUN,KAB.SAROLANGUN",
+    "value": "SAROLANGUN,KAB.SAROLANGUN"
+  },
+  {
+    "code": "QkRKMjEzMDNK",
+    "label": "SATUI,BATULICIN",
+    "value": "SATUI,BATULICIN"
+  },
+  {
+    "code": "QU1RMjA4MDBK",
+    "label": "SAUMLAKI,KAB.MALUKU TENGGARA",
+    "value": "SAUMLAKI,KAB.MALUKU TENGGARA"
+  },
+  {
+    "code": "UERHMjA4MDBK",
+    "label": "SAWAHLUNTO",
+    "value": "SAWAHLUNTO"
+  },
+  {
+    "code": "VFJLMjAzMDRK",
+    "label": "SEBATIK , NUNUKAN",
+    "value": "SEBATIK , NUNUKAN"
+  },
+  {
+    "code": "TUVTMjIzMDBK",
+    "label": "SEI RAMPAH,KAB.SERDANG BEDAGAI",
+    "value": "SEI RAMPAH,KAB.SERDANG BEDAGAI"
+  },
+  {
+    "code": "TUVTMjE1MDhK",
+    "label": "SEI SUKA,LIMAPULUH",
+    "value": "SEI SUKA,LIMAPULUH"
+  },
+  {
+    "code": "UE5LMjExMDBK",
+    "label": "SEKADAU HILIR, KAB SEKADAU",
+    "value": "SEKADAU HILIR, KAB SEKADAU"
+  },
+  {
+    "code": "UE5LMTAyMTRK",
+    "label": "SEKAYAM,SANGGAU",
+    "value": "SEKAYAM,SANGGAU"
+  },
+  {
+    "code": "UExNMjA4MDBK",
+    "label": "SEKAYU,KAB.MUSI BANYUASIN",
+    "value": "SEKAYU,KAB.MUSI BANYUASIN"
+  },
+  {
+    "code": "UEtVMjEzMDFK",
+    "label": "SELAT PANJANG, KAB MERANTI",
+    "value": "SELAT PANJANG, KAB MERANTI"
+  },
+  {
+    "code": "QU1JMjA0MDBK",
+    "label": "SELONG,KAB.LOMBOK TIMUR",
+    "value": "SELONG,KAB.LOMBOK TIMUR"
+  },
+  {
+    "code": "U1JHMTAwMDBK",
+    "label": "SEMARANG",
+    "value": "SEMARANG"
+  },
+  {
+    "code": "RFBTMjA1MDBK",
+    "label": "SEMARAPURA",
+    "value": "SEMARAPURA"
+  },
+  {
+    "code": "VVBHMjE0MDBK",
+    "label": "SENGKANG",
+    "value": "SENGKANG"
+  },
+  {
+    "code": "REpKMTAwMTVK",
+    "label": "SENTANI,JAYAPURA",
+    "value": "SENTANI,JAYAPURA"
+  },
+  {
+    "code": "REpKMjA2MDBK",
+    "label": "SERUI",
+    "value": "SERUI"
+  },
+  {
+    "code": "UEtVMjEyMDlK",
+    "label": "SIAK",
+    "value": "SIAK"
+  },
+  {
+    "code": "TUVTMTAyMDBK",
+    "label": "SIBOLGA, KAB.TAPANULI TENGAH",
+    "value": "SIBOLGA, KAB.TAPANULI TENGAH"
+  },
+  {
+    "code": "VVBHMjEzMDBK",
+    "label": "SIDENRENG,KAB.SIDENRENG",
+    "value": "SIDENRENG,KAB.SIDENRENG"
+  },
+  {
+    "code": "TUVTMTAzMDBK",
+    "label": "SIDIKALANG, KAB.DAIRI",
+    "value": "SIDIKALANG, KAB.DAIRI"
+  },
+  {
+    "code": "U1VCMjA3MDBK",
+    "label": "SIDOARJO,KAB.SIDOARJO",
+    "value": "SIDOARJO,KAB.SIDOARJO"
+  },
+  {
+    "code": "QlRKMjA0MDBK",
+    "label": "SIGLI,KAB.PIDIE",
+    "value": "SIGLI,KAB.PIDIE"
+  },
+  {
+    "code": "UERHMjE1MDBK",
+    "label": "SIMPANG EMPAT",
+    "value": "SIMPANG EMPAT"
+  },
+  {
+    "code": "QlRKMjE2MDBK",
+    "label": "SIMPANG TIGA REDELON",
+    "value": "SIMPANG TIGA REDELON"
+  },
+  {
+    "code": "RFBTMjA2MDBK",
+    "label": "SINGARAJA,KAB.BULELENG",
+    "value": "SINGARAJA,KAB.BULELENG"
+  },
+  {
+    "code": "UE5LMTAzMDBK",
+    "label": "SINGKAWANG",
+    "value": "SINGKAWANG"
+  },
+  {
+    "code": "VVBHMjE1MDBK",
+    "label": "SINJAI",
+    "value": "SINJAI"
+  },
+  {
+    "code": "UE5LMTA0MDBK",
+    "label": "SINTANG,KAB.SINTANG",
+    "value": "SINTANG,KAB.SINTANG"
+  },
+  {
+    "code": "UEJMMjAyMDBK",
+    "label": "SITUBONDO,KAB.SITUBONDO",
+    "value": "SITUBONDO,KAB.SITUBONDO"
+  },
+  {
+    "code": "U1JHMjE0MDBK",
+    "label": "SLAWI,KAB.TEGAL",
+    "value": "SLAWI,KAB.TEGAL"
+  },
+  {
+    "code": "S09FMjA3MDBK",
+    "label": "SOE,KAB.TIMOR TENGAH SELATAN",
+    "value": "SOE,KAB.TIMOR TENGAH SELATAN"
+  },
+  {
+    "code": "U09DMTAwMDBK",
+    "label": "SOLO",
+    "value": "SOLO"
+  },
+  {
+    "code": "UERHMjA5MDBK",
+    "label": "SOLOK",
+    "value": "SOLOK"
+  },
+  {
+    "code": "UEtVMjEwMTFK",
+    "label": "SOREK, KAB PELALAWAN",
+    "value": "SOREK, KAB PELALAWAN"
+  },
+  {
+    "code": "REpKMjE2MDBK",
+    "label": "SORENDIWERI",
+    "value": "SORENDIWERI"
+  },
+  {
+    "code": "VVBHMjMyMDRK",
+    "label": "SOROAKO/NUHA,KAB.LUWU TIMUR",
+    "value": "SOROAKO/NUHA,KAB.LUWU TIMUR"
+  },
+  {
+    "code": "U09RMTAwMDBK",
+    "label": "SORONG",
+    "value": "SORONG"
+  },
+  {
+    "code": "U09DMjA0MDBK",
+    "label": "SRAGEN",
+    "value": "SRAGEN"
+  },
+  {
+    "code": "TUVTMjA5MDBK",
+    "label": "STABAT, KAB.LANGKAT",
+    "value": "STABAT, KAB.LANGKAT"
+  },
+  {
+    "code": "QkRPMjExMDBK",
+    "label": "SUBANG,KAB.SUBANG",
+    "value": "SUBANG,KAB.SUBANG"
+  },
+  {
+    "code": "QlRKMjIyMDBK",
+    "label": "SUBULUSSALAM",
+    "value": "SUBULUSSALAM"
+  },
+  {
+    "code": "QlRKMjE4MDBK",
+    "label": "SUKA MAKMUE",
+    "value": "SUKA MAKMUE"
+  },
+  {
+    "code": "U01JMTAwMDBK",
+    "label": "SUKABUMI",
+    "value": "SUKABUMI"
+  },
+  {
+    "code": "VEtHMjEwMDBK",
+    "label": "SUKADANA, KAB.LAMPUNG TIMUR",
+    "value": "SUKADANA, KAB.LAMPUNG TIMUR"
+  },
+  {
+    "code": "UEtZMjEzMDBK",
+    "label": "SUKAMARA,KAB.SUKAMARA",
+    "value": "SUKAMARA,KAB.SUKAMARA"
+  },
+  {
+    "code": "U09DMjA1MDBK",
+    "label": "SUKOHARJO",
+    "value": "SUKOHARJO"
+  },
+  {
+    "code": "QU1JMjA1MDBK",
+    "label": "SUMBAWA BESAR",
+    "value": "SUMBAWA BESAR"
+  },
+  {
+    "code": "QkRPMjAyMDBK",
+    "label": "SUMEDANG",
+    "value": "SUMEDANG"
+  },
+  {
+    "code": "U1VCMjA4MDBK",
+    "label": "SUMENEP,KAB.SUMENEP",
+    "value": "SUMENEP,KAB.SUMENEP"
+  },
+  {
+    "code": "REpKMjE5MDBK",
+    "label": "SUMOHAI",
+    "value": "SUMOHAI"
+  },
+  {
+    "code": "REpCMjA2MDdK",
+    "label": "SUNGAI BAHAR,SENGETI",
+    "value": "SUNGAI BAHAR,SENGETI"
+  },
+  {
+    "code": "UExNMjA4MDZK",
+    "label": "SUNGAI LILIN,SEKAYU",
+    "value": "SUNGAI LILIN,SEKAYU"
+  },
+  {
+    "code": "QkRKMjEzMDRK",
+    "label": "SUNGAI LOBAN,BATULICIN",
+    "value": "SUNGAI LOBAN,BATULICIN"
+  },
+  {
+    "code": "UEdLMTAyMDBK",
+    "label": "SUNGAILIAT,KAB.BANGKA",
+    "value": "SUNGAILIAT,KAB.BANGKA"
+  },
+  {
+    "code": "REpCMjA0MDBK",
+    "label": "SUNGAIPENUH,KAB.KERINCI",
+    "value": "SUNGAIPENUH,KAB.KERINCI"
+  },
+  {
+    "code": "VVBHMjE2MDBK",
+    "label": "SUNGGUMINASA,KAB.GOWA",
+    "value": "SUNGGUMINASA,KAB.GOWA"
+  },
+  {
+    "code": "U1VCMTAwMDBK",
+    "label": "SURABAYA",
+    "value": "SURABAYA"
+  },
+  {
+    "code": "R1RPMjAzMDBK",
+    "label": "SUWAWA,KAB.BONE BOLANGO",
+    "value": "SUWAWA,KAB.BONE BOLANGO"
+  },
+  {
+    "code": "RFBTMjA3MDBK",
+    "label": "TABANAN",
+    "value": "TABANAN"
+  },
+  {
+    "code": "TURDMjAyMDBK",
+    "label": "TAHUNA,KEP.SANGIHE",
+    "value": "TAHUNA,KEP.SANGIHE"
+  },
+  {
+    "code": "QktTMjMwMDBK",
+    "label": "TAIS, KAB.SELUMA",
+    "value": "TAIS, KAB.SELUMA"
+  },
+  {
+    "code": "VVBHMjE3MDBK",
+    "label": "TAKALAR",
+    "value": "TAKALAR"
+  },
+  {
+    "code": "QlRKMjA1MDBK",
+    "label": "TAKENGON",
+    "value": "TAKENGON"
+  },
+  {
+    "code": "UExNMjA1MTdK",
+    "label": "TALANG UBI,MUARA ENIM",
+    "value": "TALANG UBI,MUARA ENIM"
+  },
+  {
+    "code": "VEtHMjEzMDZK",
+    "label": "TALANGPADANG, KOTA AGUNG",
+    "value": "TALANGPADANG, KOTA AGUNG"
+  },
+  {
+    "code": "QU1JMjA5MDBK",
+    "label": "TALIWANG, KAB.SUMBAWA BARAT",
+    "value": "TALIWANG, KAB.SUMBAWA BARAT"
+  },
+  {
+    "code": "S09FMjE2MDBK",
+    "label": "TAMBOLAKA, TAMBOLAKA",
+    "value": "TAMBOLAKA, TAMBOLAKA"
+  },
+  {
+    "code": "QkRKMjA4MDBK",
+    "label": "TAMIANGLAYANG",
+    "value": "TAMIANGLAYANG"
+  },
+  {
+    "code": "VFJLMjA0MDBK",
+    "label": "TANA TIDUNG, KAB TANA TIDUNG",
+    "value": "TANA TIDUNG, KAB TANA TIDUNG"
+  },
+  {
+    "code": "QlBOMjAxMDBK",
+    "label": "TANAH GROGOT, KAB PASER",
+    "value": "TANAH GROGOT, KAB PASER"
+  },
+  {
+    "code": "REpKMjA5MDBK",
+    "label": "TANAH MERAH",
+    "value": "TANAH MERAH"
+  },
+  {
+    "code": "UEtVMjA1MDZK",
+    "label": "TANAH PUTIH, KAB ROKAN HILIR",
+    "value": "TANAH PUTIH, KAB ROKAN HILIR"
+  },
+  {
+    "code": "VEdSMTAwMDBK",
+    "label": "TANGERANG",
+    "value": "TANGERANG"
+  },
+  {
+    "code": "TUVTMjI1MDBK",
+    "label": "TANJUNG BALAI",
+    "value": "TANJUNG BALAI"
+  },
+  {
+    "code": "QlRIMTA0MDBK",
+    "label": "TANJUNG BALAI KARIMUN",
+    "value": "TANJUNG BALAI KARIMUN"
+  },
+  {
+    "code": "VEtHMjAxMDRK",
+    "label": "TANJUNG BINTANG, LAMPUNG SEL",
+    "value": "TANJUNG BINTANG, LAMPUNG SEL"
+  },
+  {
+    "code": "VFJLMjAxMDBK",
+    "label": "TANJUNG SELOR, KAB BULUNGAN",
+    "value": "TANJUNG SELOR, KAB BULUNGAN"
+  },
+  {
+    "code": "QkRKMTA0MDBK",
+    "label": "TANJUNG,KAB.TABALONG",
+    "value": "TANJUNG,KAB.TABALONG"
+  },
+  {
+    "code": "QlRKMjA2MDBK",
+    "label": "TAPAKTUAN,KAB.ACEH SELATAN",
+    "value": "TAPAKTUAN,KAB.ACEH SELATAN"
+  },
+  {
+    "code": "UEtVMjAxMjNK",
+    "label": "TAPUNG, BANGKINANG",
+    "value": "TAPUNG, BANGKINANG"
+  },
+  {
+    "code": "VFJLMTAwMDBK",
+    "label": "TARAKAN",
+    "value": "TARAKAN"
+  },
+  {
+    "code": "TUVTMjEwMDBK",
+    "label": "TARUTUNG, KAB.TAPANULI UTARA",
+    "value": "TARUTUNG, KAB.TAPANULI UTARA"
+  },
+  {
+    "code": "QkRPMjAzMDBK",
+    "label": "TASIKMALAYA",
+    "value": "TASIKMALAYA"
+  },
+  {
+    "code": "UExNMjExMDBK",
+    "label": "TEBING TINGGI,KAB.EMPAT LAWANG",
+    "value": "TEBING TINGGI,KAB.EMPAT LAWANG"
+  },
+  {
+    "code": "TUVTMjExMDBK",
+    "label": "TEBINGTINGGI",
+    "value": "TEBINGTINGGI"
+  },
+  {
+    "code": "U1JHMjE1MDBK",
+    "label": "TEGAL",
+    "value": "TEGAL"
+  },
+  {
+    "code": "UEtVMjA5MDBK",
+    "label": "TELUK KUANTAN",
+    "value": "TELUK KUANTAN"
+  },
+  {
+    "code": "TUdMMTA0MDBK",
+    "label": "TEMANGGUNG,KAB.TEMANGGUNG",
+    "value": "TEMANGGUNG,KAB.TEMANGGUNG"
+  },
+  {
+    "code": "UEtVMjA0MDBK",
+    "label": "TEMBILAHAN, INDRAGIRI HILIR",
+    "value": "TEMBILAHAN, INDRAGIRI HILIR"
+  },
+  {
+    "code": "U09RMjA0MDBK",
+    "label": "TEMINABUAN,KAB.SORONG SELATAN",
+    "value": "TEMINABUAN,KAB.SORONG SELATAN"
+  },
+  {
+    "code": "UEdLMTAzMDJK",
+    "label": "TEMPILANG, ,KELAPA",
+    "value": "TEMPILANG, ,KELAPA"
+  },
+  {
+    "code": "U01EMjAxMDBK",
+    "label": "TENGGARONG,KAB.KUTAI",
+    "value": "TENGGARONG,KAB.KUTAI"
+  },
+  {
+    "code": "VEtHMjA5MDZK",
+    "label": "TERBANGGIBESAR / BANDARJAYA",
+    "value": "TERBANGGIBESAR / BANDARJAYA"
+  },
+  {
+    "code": "VFRFMTAwMDBK",
+    "label": "TERNATE",
+    "value": "TERNATE"
+  },
+  {
+    "code": "VFRFMjA4MDBK",
+    "label": "TIDORE",
+    "value": "TIDORE"
+  },
+  {
+    "code": "VEdSMTAxMDBK",
+    "label": "TIGARAKSA,KAB.TANGERANG",
+    "value": "TIGARAKSA,KAB.TANGERANG"
+  },
+  {
+    "code": "R1RPMjAyMDBK",
+    "label": "TILAMUTA,KAB.BOALEMO",
+    "value": "TILAMUTA,KAB.BOALEMO"
+  },
+  {
+    "code": "VElNMTAwMDBK",
+    "label": "TIMIKA",
+    "value": "TIMIKA"
+  },
+  {
+    "code": "VFRFMjA2MDBK",
+    "label": "TOBELO,KAB.HALMAHERA UTARA",
+    "value": "TOBELO,KAB.HALMAHERA UTARA"
+  },
+  {
+    "code": "UEdLMTA1MDBK",
+    "label": "TOBOALI, KAB.TOBOALI",
+    "value": "TOBOALI, KAB.TOBOALI"
+  },
+  {
+    "code": "UExXMjAxMTdK",
+    "label": "TOILI,LUWUK",
+    "value": "TOILI,LUWUK"
+  },
+  {
+    "code": "UExXMjAzMDBK",
+    "label": "TOLITOLI,KAB.TOLITOLI",
+    "value": "TOLITOLI,KAB.TOLITOLI"
+  },
+  {
+    "code": "TURDMjExMDBK",
+    "label": "TOMOHON",
+    "value": "TOMOHON"
+  },
+  {
+    "code": "TURDMjAzMDBK",
+    "label": "TONDANO,KAB.MINAHASA",
+    "value": "TONDANO,KAB.MINAHASA"
+  },
+  {
+    "code": "U1VCMjIwMDBK",
+    "label": "TRENGGALEK,KAB.TRENGGALEK",
+    "value": "TRENGGALEK,KAB.TRENGGALEK"
+  },
+  {
+    "code": "QU1RMjAyMDBK",
+    "label": "TUAL",
+    "value": "TUAL"
+  },
+  {
+    "code": "UEtVMjEyMTJK",
+    "label": "TUALANG,SIAKSRIINDAPURA",
+    "value": "TUALANG,SIAKSRIINDAPURA"
+  },
+  {
+    "code": "UERHMjE0MDBK",
+    "label": "TUAPEJAT",
+    "value": "TUAPEJAT"
+  },
+  {
+    "code": "U1VCMjA5MDBK",
+    "label": "TUBAN,KAB.TUBAN",
+    "value": "TUBAN,KAB.TUBAN"
+  },
+  {
+    "code": "UExNMTAzMTVK",
+    "label": "TUGUMULYO,MUARA BELITI BARU",
+    "value": "TUGUMULYO,MUARA BELITI BARU"
+  },
+  {
+    "code": "U1VCMjEwMDBK",
+    "label": "TULUNGAGUNG,KAB.TULUNGAGUNG",
+    "value": "TULUNGAGUNG,KAB.TULUNGAGUNG"
+  },
+  {
+    "code": "VEtHMjEyMTRK",
+    "label": "TUMIJAJAR, MENGGALA",
+    "value": "TUMIJAJAR, MENGGALA"
+  },
+  {
+    "code": "TVhHMjAzMjNK",
+    "label": "TUREN,KEPANJEN",
+    "value": "TUREN,KEPANJEN"
+  },
+  {
+    "code": "UEtVMjExMTJK",
+    "label": "UJUNGBATU,PASIR PANGARAIAN",
+    "value": "UJUNGBATU,PASIR PANGARAIAN"
+  },
+  {
+    "code": "UEtVMjEwMDlK",
+    "label": "UKUI,KAB.PALALAWAN",
+    "value": "UKUI,KAB.PALALAWAN"
+  },
+  {
+    "code": "S0RJMjA0MDBK",
+    "label": "UNAAHA,KAB.KONAWE",
+    "value": "UNAAHA,KAB.KONAWE"
+  },
+  {
+    "code": "U1JHMjE2MDBK",
+    "label": "UNGARAN",
+    "value": "UNGARAN"
+  },
+  {
+    "code": "S09FMTAxMDBK",
+    "label": "WAIBAKUL,KAB.SUMBA TENGAH",
+    "value": "WAIBAKUL,KAB.SUMBA TENGAH"
+  },
+  {
+    "code": "S09FMjExMDBK",
+    "label": "WAIKABUBAK",
+    "value": "WAIKABUBAK"
+  },
+  {
+    "code": "S09FMjEwMDBK",
+    "label": "WAINGAPU,KAB.SUMBA TIMUR",
+    "value": "WAINGAPU,KAB.SUMBA TIMUR"
+  },
+  {
+    "code": "U09RMjAzMDBK",
+    "label": "WAISAI,KAB.RAJA AMPAT",
+    "value": "WAISAI,KAB.RAJA AMPAT"
+  },
+  {
+    "code": "REpKMjA3MDBK",
+    "label": "WAMENA,KAB.JAYAWIJAYA",
+    "value": "WAMENA,KAB.JAYAWIJAYA"
+  },
+  {
+    "code": "S0RJMjA4MDBK",
+    "label": "WANGGODO/ANDOLO,KAB.KONAWE",
+    "value": "WANGGODO/ANDOLO,KAB.KONAWE"
+  },
+  {
+    "code": "S0RJMjA5MDBK",
+    "label": "WANGI WANGI,KAB.WAKATOBI",
+    "value": "WANGI WANGI,KAB.WAKATOBI"
+  },
+  {
+    "code": "REpKMjEwMDBK",
+    "label": "WARIS,KAB KEEROM",
+    "value": "WARIS,KAB KEEROM"
+  },
+  {
+    "code": "VVBHMjE4MDBK",
+    "label": "WATAMPONE,KAB.BONE",
+    "value": "WATAMPONE,KAB.BONE"
+  },
+  {
+    "code": "VVBHMjE5MDBK",
+    "label": "WATANSOPPENG",
+    "value": "WATANSOPPENG"
+  },
+  {
+    "code": "Sk9HMjA0MDBK",
+    "label": "WATES,KAB.KULON PROGO",
+    "value": "WATES,KAB.KULON PROGO"
+  },
+  {
+    "code": "VEtHMjEwMDhK",
+    "label": "WAY JEPARA, SUKADANA",
+    "value": "WAY JEPARA, SUKADANA"
+  },
+  {
+    "code": "VFRFMjA0MDBK",
+    "label": "WEDA,KAB.HALMAHERA TENGAH",
+    "value": "WEDA,KAB.HALMAHERA TENGAH"
+  },
+  {
+    "code": "QU1JMjExMDBK",
+    "label": "WOHA,KAB.BIMA",
+    "value": "WOHA,KAB.BIMA"
+  },
+  {
+    "code": "U09DMjA2MDBK",
+    "label": "WONOGIRI,KAB.WONOGIRI",
+    "value": "WONOGIRI,KAB.WONOGIRI"
+  },
+  {
+    "code": "Sk9HMjA1MDBK",
+    "label": "WONOSARI,KAB.GN.KIDUL",
+    "value": "WONOSARI,KAB.GN.KIDUL"
+  },
+  {
+    "code": "TUdMMTAyMDBK",
+    "label": "WONOSOBO",
+    "value": "WONOSOBO"
+  },
+  {
+    "code": "VEtHMjEzMDdK",
+    "label": "WONOSOBO, KOTA AGUNG",
+    "value": "WONOSOBO, KOTA AGUNG"
+  },
+  {
+    "code": "Sk9HMTAwMDBK",
+    "label": "YOGYAKARTA",
+    "value": "YOGYAKARTA"
+  }
+]
